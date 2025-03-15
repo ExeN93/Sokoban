@@ -2,6 +2,6 @@
 ### 3 different levels of difficulty
 > Made without using the vector library**
 > used libraries:
-> 1. iostream
-> 2. cstdlib
-> 3. iomanip
+>> - iostream
+>> - cstdlib
+>> - iomanip
