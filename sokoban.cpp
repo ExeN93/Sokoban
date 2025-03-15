@@ -229,7 +229,6 @@ void print_points(SokobanState &state) {
 void menu(SokobanState &state) {
     system("CLS");
     // Instrukcja powitalna gry
-    cout << "Tworca gry: Andrzej Zwirko 193749" << endl << endl;
     cout << R"(                    
 | |     / (_) /_____ _  (_)  _      __   ____ __________  ___ 
 | | /| / / / __/ __ `/ / /  | | /| / /  / __ `/ ___/_  / / _ \
