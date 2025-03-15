@@ -1,5 +1,5 @@
 ## Simple C++ console game Sokoban
-### 3 different levels of 
+### 3 different levels of difficulty
 > Made without using the vector library**
 > used libraries:
 > 1. iostream
