@@ -1,4 +1,5 @@
-## Simple c++ console game sokoban
+## Simple C++ console game Sokoban
+### 3 map levels
 #### Made without using the vector library
 used libraries:
 1. iostream
